@@ -1,4 +1,4 @@
-package com.apartment.apartment.api;
+package com.apartment.apartment.controller;
 
 import com.apartment.apartment.dao.TestDao;
 import org.springframework.beans.factory.annotation.Autowired;

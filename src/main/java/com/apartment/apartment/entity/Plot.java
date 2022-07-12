@@ -12,7 +12,8 @@ import java.time.LocalDate;
 @NoArgsConstructor
 @ToString
 public class Plot {
-    private String id;
+    private int id;
+    private String name;
     private String location;
     private String apartmentId;
     private LocalDate createdAt;
